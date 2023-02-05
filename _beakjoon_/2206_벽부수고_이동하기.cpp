@@ -17,7 +17,19 @@ struct loc {
 /// Function List
 int** input(int n, int m);
 int*** init_distArr(int n, int m);
+/// <summary>
+/// BFS활용하여 최단거리 구함
+/// </summary>
+/// <param name="Map"></param>
+/// <param name="distanceArr"></param>
+/// <param name="n"></param>
+/// <param name="m"></param>
 void solve(int** Map, int*** distanceArr, int n, int m);
+/// <summary>
+/// 동적할당 배열 메모리 해제
+/// </summary>
+/// <param name="Addr"> 배열 포인터</param>
+/// <param name="n"> </param>
 void MemoryFree(int*** Addr, int n);
 void MemoryFree(int**** Addr, int n, int m);
 
