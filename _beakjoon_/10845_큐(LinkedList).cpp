@@ -87,7 +87,6 @@ void queue::size() {
 		}
 		cout << count << "\n";
 	}
-
 }
 void queue::empty() {
 	if (this->head == NULL) { cout << 1 << "\n"; }
