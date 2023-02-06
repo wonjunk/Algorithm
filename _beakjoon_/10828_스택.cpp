@@ -49,10 +49,10 @@ void stack::push()
 	if (this->stacksize + 1 > this->arrsize)
 	{
 		this->arrsize *= 2;
-		int* temparr = new int[arrsize];
+		int* temparr = new int[this->arrsize];
 		for (int i = 0; i < this->arrsize / 2; i++)
 		{
-			temparr[i] = arr[i];
+			temparr[i] = this->arr[i];
 		}
 		delete[] this->arr;
 		this->arr = temparr;
