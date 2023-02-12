@@ -18,7 +18,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="49.재귀_Factorial.cpp">
+    <ClCompile Include="49_재귀_Factorial.cpp">
       <Filter>소스 파일\입문</Filter>
     </ClCompile>
   </ItemGroup>
