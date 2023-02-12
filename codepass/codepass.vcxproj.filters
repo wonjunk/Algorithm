@@ -21,5 +21,8 @@
     <ClCompile Include="49_재귀_Factorial.cpp">
       <Filter>소스 파일\입문</Filter>
     </ClCompile>
+    <ClCompile Include="57_Greedy_회의실배정.cpp">
+      <Filter>소스 파일\입문</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
