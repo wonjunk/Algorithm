@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "beakjoon", "_beakjoon_\_beakjoon_.vcxproj", "{CEE87958-B62E-4A4F-9BCA-A3133683CB2C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "beakjoon", "beakjoon\beakjoon.vcxproj", "{CEE87958-B62E-4A4F-9BCA-A3133683CB2C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "codepass", "codepass\codepass.vcxproj", "{2E747E4B-F751-4B0E-B75D-61614DC81143}"
 EndProject
