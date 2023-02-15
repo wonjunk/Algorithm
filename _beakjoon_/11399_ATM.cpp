@@ -92,16 +92,6 @@ void solve(int* pTime, int n) {
 //	}
 //}
 
-//Quick Sort
-//void sort(int* pTime, int n) {
-//
-//}
-
-//Merge Sort
-//void sort(int* pTime, int n) {
-//
-//}
-
 void getMinTime(int* pTime, int n) {
 	int result = 0;
 	for (int i = 0; i < n; i++) {
