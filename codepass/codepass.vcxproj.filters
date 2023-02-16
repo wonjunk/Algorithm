@@ -16,16 +16,47 @@
     <Filter Include="소스 파일\입문">
       <UniqueIdentifier>{f4b04e86-adc7-4fd7-bd29-50786d2d9a10}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\입문\09_분할정복">
+      <UniqueIdentifier>{5a7c5d2b-b801-45ab-9ce9-4ab972cfa5c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\입문\09_분할정복\59_MergeSort">
+      <UniqueIdentifier>{dfa18a9f-ffd8-4a05-a40e-542d321ced75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\입문\09_분할정복\60_수열복원">
+      <UniqueIdentifier>{11b9920b-1900-4f67-910d-d62c36e3c2d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\입문\08_재귀">
+      <UniqueIdentifier>{a7f96585-1a3d-4744-bdf5-db19f7d01bcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\입문\07_Greedy">
+      <UniqueIdentifier>{05d85b6d-27d3-42af-b578-f475ea1eecb9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="49_재귀_Factorial.cpp">
-      <Filter>소스 파일\입문</Filter>
+    <ClCompile Include="59_MergeSort.cpp">
+      <Filter>소스 파일\입문\09_분할정복\59_MergeSort</Filter>
     </ClCompile>
-    <ClCompile Include="57_Greedy_회의실배정.cpp">
-      <Filter>소스 파일\입문</Filter>
+    <ClCompile Include="60_수열복원_main.cpp">
+      <Filter>소스 파일\입문\09_분할정복\60_수열복원</Filter>
     </ClCompile>
-    <ClCompile Include="59_분할정복_MergeSort.cpp">
-      <Filter>소스 파일\입문</Filter>
+    <ClCompile Include="60_수열복원_user.cpp">
+      <Filter>소스 파일\입문\09_분할정복\60_수열복원</Filter>
     </ClCompile>
+    <ClCompile Include="49_Factorial.cpp">
+      <Filter>소스 파일\입문\08_재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="57_회의실배정.cpp">
+      <Filter>소스 파일\입문\07_Greedy</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="codepass.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
   </ItemGroup>
 </Project>
