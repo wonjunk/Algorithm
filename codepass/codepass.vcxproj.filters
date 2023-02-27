@@ -40,34 +40,67 @@
     <Filter Include="소스 파일\입문\08_분할정복">
       <UniqueIdentifier>{5a7c5d2b-b801-45ab-9ce9-4ab972cfa5c1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\입문\08_분할정복\59_MergeSort">
-      <UniqueIdentifier>{dfa18a9f-ffd8-4a05-a40e-542d321ced75}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\입문\08_분할정복\60_수열복원">
       <UniqueIdentifier>{11b9920b-1900-4f67-910d-d62c36e3c2d2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\입문\07_재귀\49_Factorial">
-      <UniqueIdentifier>{a4b1789f-1046-429b-a7af-5f83bc4efb49}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\입문\06_Greedy\57_회의실배정">
-      <UniqueIdentifier>{6a0f81a2-7aa0-4637-8fc0-eccbbf3dcc5a}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="59_MergeSort.cpp">
-      <Filter>소스 파일\입문\08_분할정복\59_MergeSort</Filter>
-    </ClCompile>
-    <ClCompile Include="60_수열복원_main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>소스 파일\입문\08_분할정복\60_수열복원</Filter>
     </ClCompile>
-    <ClCompile Include="60_수열복원_user.cpp">
+    <ClCompile Include="user.cpp">
       <Filter>소스 파일\입문\08_분할정복\60_수열복원</Filter>
     </ClCompile>
-    <ClCompile Include="49_Factorial.cpp">
-      <Filter>소스 파일\입문\07_재귀\49_Factorial</Filter>
+    <ClCompile Include="18_약수.cpp">
+      <Filter>소스 파일\입문\02_수학</Filter>
+    </ClCompile>
+    <ClCompile Include="25_이진수.cpp">
+      <Filter>소스 파일\입문\02_수학</Filter>
+    </ClCompile>
+    <ClCompile Include="25_PrimeNumber.cpp">
+      <Filter>소스 파일\입문\02_수학</Filter>
+    </ClCompile>
+    <ClCompile Include="23_NumberReverse.cpp">
+      <Filter>소스 파일\입문\02_수학</Filter>
+    </ClCompile>
+    <ClCompile Include="32_문자열찾기.cpp">
+      <Filter>소스 파일\입문\03_문자열</Filter>
     </ClCompile>
     <ClCompile Include="57_회의실배정.cpp">
-      <Filter>소스 파일\입문\06_Greedy\57_회의실배정</Filter>
+      <Filter>소스 파일\입문\06_Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="49_Factorial.cpp">
+      <Filter>소스 파일\입문\07_재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="59_MergeSort.cpp">
+      <Filter>소스 파일\입문\08_분할정복</Filter>
+    </ClCompile>
+    <ClCompile Include="01_구구단.cpp">
+      <Filter>소스 파일\입문\01_도형만들기</Filter>
+    </ClCompile>
+    <ClCompile Include="02_구구단2.cpp">
+      <Filter>소스 파일\입문\01_도형만들기</Filter>
+    </ClCompile>
+    <ClCompile Include="03_숫자사각형1.cpp">
+      <Filter>소스 파일\입문\01_도형만들기</Filter>
+    </ClCompile>
+    <ClCompile Include="04_숫자사각형2.cpp">
+      <Filter>소스 파일\입문\01_도형만들기</Filter>
+    </ClCompile>
+    <ClCompile Include="05_숫자사각형3.cpp">
+      <Filter>소스 파일\입문\01_도형만들기</Filter>
+    </ClCompile>
+    <ClCompile Include="07_문자사각형2.cpp">
+      <Filter>소스 파일\입문\01_도형만들기</Filter>
+    </ClCompile>
+    <ClCompile Include="08_문자삼각형1.cpp">
+      <Filter>소스 파일\입문\01_도형만들기</Filter>
+    </ClCompile>
+    <ClCompile Include="09_문자삼각형2.cpp">
+      <Filter>소스 파일\입문\01_도형만들기</Filter>
+    </ClCompile>
+    <ClCompile Include="06_문자사각형1.cpp">
+      <Filter>소스 파일\입문\01_도형만들기</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
