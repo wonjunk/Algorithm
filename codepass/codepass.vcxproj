@@ -139,7 +139,9 @@
     <ClCompile Include="x64\02_STL기초\01_Vector_Deque_List\07_수열\07_수열_vector.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="x64\02_STL기초\01_Vector_Deque_List\08_개발자영입\08_개발자영입.cpp" />
+    <ClCompile Include="x64\02_STL기초\01_Vector_Deque_List\08_개발자영입\08_개발자영입.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="x64\01_입문\02_수학\18_약수\18_약수.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
