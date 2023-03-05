@@ -127,9 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="07_수열_List.cpp">
+    <ClCompile Include="x64\02_STL기초\01_Vector_Deque_List\07_수열\07_수열_deque.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="x64\02_STL기초\01_Vector_Deque_List\07_수열\07_수열_list.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="x64\02_STL기초\01_Vector_Deque_List\07_수열\07_수열_vector.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="x64\02_STL기초\01_Vector_Deque_List\08_개발자영입\08_개발자영입.cpp" />
     <ClCompile Include="18_약수.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -154,7 +161,7 @@
     <ClCompile Include="59_MergeSort.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="06_문자사각형1.cpp">
+    <ClCompile Include="x64\01_입문\01_도형만들기\06_문자사각형1\06_문자사각형1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="main.cpp">
@@ -163,28 +170,28 @@
     <ClCompile Include="user.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="01_구구단.cpp">
+    <ClCompile Include="x64\01_입문\01_도형만들기\01_구구단\01_구구단.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="02_구구단2.cpp">
+    <ClCompile Include="x64\01_입문\01_도형만들기\02_구구단2\02_구구단2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="03_숫자사각형1.cpp">
+    <ClCompile Include="x64\01_입문\01_도형만들기\03_숫자사각형1\03_숫자사각형1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="04_숫자사각형2.cpp">
+    <ClCompile Include="x64\01_입문\01_도형만들기\04_숫자사각형2\04_숫자사각형2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="05_숫자사각형3.cpp">
+    <ClCompile Include="x64\01_입문\01_도형만들기\05_숫자사각형3\05_숫자사각형3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="07_문자사각형2.cpp">
+    <ClCompile Include="x64\01_입문\01_도형만들기\07_문자사각형2\07_문자사각형2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="08_문자삼각형1.cpp">
+    <ClCompile Include="x64\01_입문\01_도형만들기\08_문자삼각형1\08_문자삼각형1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="09_문자삼각형2.cpp">
+    <ClCompile Include="x64\01_입문\01_도형만들기\09_뭄자삼각형2\09_문자삼각형2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
   </ItemGroup>
