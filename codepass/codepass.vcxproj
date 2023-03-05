@@ -127,6 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="x64\01_입문\02_수학\19_약수와배수\19_약수와배수%27.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="x64\02_STL기초\01_Vector_Deque_List\07_수열\07_수열_deque.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -137,37 +140,37 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="x64\02_STL기초\01_Vector_Deque_List\08_개발자영입\08_개발자영입.cpp" />
-    <ClCompile Include="18_약수.cpp">
+    <ClCompile Include="x64\01_입문\02_수학\18_약수\18_약수.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="23_NumberReverse.cpp">
+    <ClCompile Include="x64\01_입문\02_수학\23_각자리수의역과합\23_NumberReverse.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="25_PrimeNumber.cpp">
+    <ClCompile Include="x64\01_입문\02_수학\25_소수\25_PrimeNumber.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="28_이진수.cpp">
+    <ClCompile Include="x64\01_입문\02_수학\28_이진수\28_이진수.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="32_문자열찾기.cpp">
+    <ClCompile Include="x64\01_입문\03_문자열\32_문자열찾기\32_문자열찾기.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="49_Factorial.cpp">
+    <ClCompile Include="x64\01_입문\06_재귀\49_팩토리얼\49_Factorial.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="57_회의실배정.cpp">
+    <ClCompile Include="x64\01_입문\07_Greedy\57_회의실배정\57_회의실배정.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="59_MergeSort.cpp">
+    <ClCompile Include="x64\01_입문\08_분할정복\59_합병정렬\59_MergeSort.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="x64\01_입문\01_도형만들기\06_문자사각형1\06_문자사각형1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="x64\01_입문\08_분할정복\60_수열복원\60_수열복원_main.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="user.cpp">
+    <ClCompile Include="x64\01_입문\08_분할정복\60_수열복원\60_수열복원_user.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="x64\01_입문\01_도형만들기\01_구구단\01_구구단.cpp">
@@ -192,6 +195,9 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="x64\01_입문\01_도형만들기\09_뭄자삼각형2\09_문자삼각형2.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="x64\02_STL기초\04_PriorityQueue\18_우선순위큐가3개\18_우선순위큐가3개_PQ.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
   </ItemGroup>
