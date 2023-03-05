@@ -123,79 +123,85 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="x64\01_입문\08_분할정복\60_수열복원\60_수열복원_main.cpp">
+    <ClCompile Include="cpp\01_입문\08_분할정복\60_수열복원\60_수열복원_main.cpp">
       <Filter>소스 파일\01_입문\08_분할정복\60_수열복원</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\08_분할정복\60_수열복원\60_수열복원_user.cpp">
+    <ClCompile Include="cpp\01_입문\08_분할정복\60_수열복원\60_수열복원_user.cpp">
       <Filter>소스 파일\01_입문\08_분할정복\60_수열복원</Filter>
     </ClCompile>
-    <ClCompile Include="x64\02_STL기초\01_Vector_Deque_List\07_수열\07_수열_list.cpp">
+    <ClCompile Include="cpp\02_STL기초\01_Vector_Deque_List\07_수열\07_수열_list.cpp">
       <Filter>소스 파일\02_STL기초\01_Vector_Deque_List\07_수열</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\08_분할정복\59_합병정렬\59_MergeSort.cpp">
+    <ClCompile Include="cpp\01_입문\08_분할정복\59_합병정렬\59_MergeSort.cpp">
       <Filter>소스 파일\01_입문\08_분할정복\59_MergeSort</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\06_재귀\49_팩토리얼\49_Factorial.cpp">
+    <ClCompile Include="cpp\01_입문\06_재귀\49_팩토리얼\49_Factorial.cpp">
       <Filter>소스 파일\01_입문\07_재귀\49_Factorial</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\07_Greedy\57_회의실배정\57_회의실배정.cpp">
+    <ClCompile Include="cpp\01_입문\07_Greedy\57_회의실배정\57_회의실배정.cpp">
       <Filter>소스 파일\01_입문\06_Greedy\57_회의실배정</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\03_문자열\32_문자열찾기\32_문자열찾기.cpp">
+    <ClCompile Include="cpp\01_입문\03_문자열\32_문자열찾기\32_문자열찾기.cpp">
       <Filter>소스 파일\01_입문\03_문자열\32_문자열찾기</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\02_수학\18_약수\18_약수.cpp">
+    <ClCompile Include="cpp\01_입문\02_수학\18_약수\18_약수.cpp">
       <Filter>소스 파일\01_입문\02_수학\18_약수</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\02_수학\28_이진수\28_이진수.cpp">
+    <ClCompile Include="cpp\01_입문\02_수학\28_이진수\28_이진수.cpp">
       <Filter>소스 파일\01_입문\02_수학\28_이진수</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\02_수학\23_각자리수의역과합\23_NumberReverse.cpp">
+    <ClCompile Include="cpp\01_입문\02_수학\23_각자리수의역과합\23_NumberReverse.cpp">
       <Filter>소스 파일\01_입문\02_수학\23_NumberReverse</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\02_수학\25_소수\25_PrimeNumber.cpp">
+    <ClCompile Include="cpp\01_입문\02_수학\25_소수\25_PrimeNumber.cpp">
       <Filter>소스 파일\01_입문\02_수학\25_PrimeNumber</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\01_도형만들기\01_구구단\01_구구단.cpp">
+    <ClCompile Include="cpp\01_입문\01_도형만들기\01_구구단\01_구구단.cpp">
       <Filter>소스 파일\01_입문\01_도형만들기\01_구구단</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\01_도형만들기\02_구구단2\02_구구단2.cpp">
+    <ClCompile Include="cpp\01_입문\01_도형만들기\02_구구단2\02_구구단2.cpp">
       <Filter>소스 파일\01_입문\01_도형만들기\02_구구단2</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\01_도형만들기\03_숫자사각형1\03_숫자사각형1.cpp">
+    <ClCompile Include="cpp\01_입문\01_도형만들기\03_숫자사각형1\03_숫자사각형1.cpp">
       <Filter>소스 파일\01_입문\01_도형만들기\03_숫자사각형1</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\01_도형만들기\04_숫자사각형2\04_숫자사각형2.cpp">
+    <ClCompile Include="cpp\01_입문\01_도형만들기\04_숫자사각형2\04_숫자사각형2.cpp">
       <Filter>소스 파일\01_입문\01_도형만들기\04_숫자사각형2</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\01_도형만들기\06_문자사각형1\06_문자사각형1.cpp">
+    <ClCompile Include="cpp\01_입문\01_도형만들기\06_문자사각형1\06_문자사각형1.cpp">
       <Filter>소스 파일\01_입문\01_도형만들기\06_문자사각형1</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\01_도형만들기\05_숫자사각형3\05_숫자사각형3.cpp">
+    <ClCompile Include="cpp\01_입문\01_도형만들기\05_숫자사각형3\05_숫자사각형3.cpp">
       <Filter>소스 파일\01_입문\01_도형만들기\05_숫자사각형3</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\01_도형만들기\07_문자사각형2\07_문자사각형2.cpp">
+    <ClCompile Include="cpp\01_입문\01_도형만들기\07_문자사각형2\07_문자사각형2.cpp">
       <Filter>소스 파일\01_입문\01_도형만들기\07_문자사각형2</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\01_도형만들기\08_문자삼각형1\08_문자삼각형1.cpp">
+    <ClCompile Include="cpp\01_입문\01_도형만들기\08_문자삼각형1\08_문자삼각형1.cpp">
       <Filter>소스 파일\01_입문\01_도형만들기\08_문자삼각형1</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\01_도형만들기\09_뭄자삼각형2\09_문자삼각형2.cpp">
+    <ClCompile Include="cpp\01_입문\01_도형만들기\09_뭄자삼각형2\09_문자삼각형2.cpp">
       <Filter>소스 파일\01_입문\01_도형만들기\09_문자삼각형2</Filter>
     </ClCompile>
-    <ClCompile Include="x64\02_STL기초\01_Vector_Deque_List\07_수열\07_수열_vector.cpp">
+    <ClCompile Include="cpp\02_STL기초\01_Vector_Deque_List\07_수열\07_수열_vector.cpp">
       <Filter>소스 파일\02_STL기초\01_Vector_Deque_List\07_수열</Filter>
     </ClCompile>
-    <ClCompile Include="x64\02_STL기초\01_Vector_Deque_List\07_수열\07_수열_deque.cpp">
+    <ClCompile Include="cpp\02_STL기초\01_Vector_Deque_List\07_수열\07_수열_deque.cpp">
       <Filter>소스 파일\02_STL기초\01_Vector_Deque_List\07_수열</Filter>
     </ClCompile>
-    <ClCompile Include="x64\02_STL기초\01_Vector_Deque_List\08_개발자영입\08_개발자영입.cpp">
+    <ClCompile Include="cpp\02_STL기초\01_Vector_Deque_List\08_개발자영입\08_개발자영입.cpp">
       <Filter>소스 파일\02_STL기초\01_Vector_Deque_List\08_개발자영입</Filter>
     </ClCompile>
-    <ClCompile Include="x64\01_입문\02_수학\19_약수와배수\19_약수와배수%27.cpp">
+    <ClCompile Include="cpp\01_입문\02_수학\19_약수와배수\19_약수와배수%27.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x64\02_STL기초\04_PriorityQueue\18_우선순위큐가3개\18_우선순위큐가3개_PQ.cpp">
+    <ClCompile Include="cpp\02_STL기초\04_PriorityQueue\18_우선순위큐가3개\18_우선순위큐가3개_PQ.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\01_입문\02_수학\20_약수구하기\20_약수구하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp\00_기출\22년2월\01_TS우산창고.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

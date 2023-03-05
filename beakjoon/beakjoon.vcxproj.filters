@@ -15,43 +15,43 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="x64\문제\14504_로봇청소기.cpp">
+    <ClCompile Include="cpp\문제\14504_로봇청소기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x64\문제\2206_벽부수고_이동하기.cpp">
+    <ClCompile Include="cpp\문제\2206_벽부수고_이동하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x64\문제\14891_톱니바퀴.cpp">
+    <ClCompile Include="cpp\문제\14891_톱니바퀴.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x64\기초\01_자료구조\01_Stack\10828_스택.cpp">
+    <ClCompile Include="cpp\기초\01_자료구조\01_Stack\10828_스택.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x64\기초\01_자료구조\02_Queue\10845_큐%28LinkedList%29.cpp">
+    <ClCompile Include="cpp\기초\01_자료구조\02_Queue\10845_큐%28LinkedList%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x64\기초\01_자료구조\01_Stack\10828_스택%28LinkedList%29.cpp">
+    <ClCompile Include="cpp\기초\01_자료구조\01_Stack\10828_스택%28LinkedList%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x64\기초\01_자료구조\02_Queue\10845_큐.cpp">
+    <ClCompile Include="cpp\기초\01_자료구조\02_Queue\10845_큐.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x64\문제\11399_ATM.cpp">
+    <ClCompile Include="cpp\문제\11399_ATM.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x64\기초\02_정렬알고리즘\2750_수정렬하기.cpp">
+    <ClCompile Include="cpp\기초\02_정렬알고리즘\2750_수정렬하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x64\기초\02_정렬알고리즘\2751_수정렬하기2.cpp">
+    <ClCompile Include="cpp\기초\02_정렬알고리즘\2751_수정렬하기2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x64\기초\02_정렬알고리즘\10989_수정렬하기3.cpp">
+    <ClCompile Include="cpp\기초\02_정렬알고리즘\10989_수정렬하기3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x64\문제\3425_고스택.cpp">
+    <ClCompile Include="cpp\문제\3425_고스택.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x64\문제\19238_스타트택시.cpp">
+    <ClCompile Include="cpp\문제\19238_스타트택시.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
