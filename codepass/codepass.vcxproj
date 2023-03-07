@@ -133,7 +133,9 @@
     <ClCompile Include="cpp\01_입문\02_수학\19_약수와배수\19_약수와배수%27.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="cpp\01_입문\02_수학\20_약수구하기\20_약수구하기.cpp" />
+    <ClCompile Include="cpp\01_입문\02_수학\20_약수구하기\20_약수구하기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="cpp\02_STL기초\01_Vector_Deque_List\07_수열\07_수열_deque.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
