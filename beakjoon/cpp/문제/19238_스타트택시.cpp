@@ -180,17 +180,6 @@ int car::GetDistanceToGoal() {
 			break;
 		}
 
-		cout << "------------" << endl;
-		
-		for (int j = 0; j < MapSize; j++) {
-			for (int i = 0; i < MapSize; i++) {
-				cout << visited[i][j] << " ";
-			}
-			cout << "\n";
-		}
-
-		cout << "------------" << endl;
-
 		for (int i = 0; i < 4; i++) {
 			new_loc.x = loc.x + dx[i];
 			new_loc.y = loc.y + dy[i];
