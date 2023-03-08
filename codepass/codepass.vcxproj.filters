@@ -204,6 +204,9 @@
     <ClCompile Include="cpp\00_기출\22년2월\01_TS우산창고.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="cpp\02_STL기초\02_String\13_문자열처리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">

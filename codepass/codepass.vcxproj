@@ -205,6 +205,9 @@
     <ClCompile Include="cpp\01_입문\01_도형만들기\09_뭄자삼각형2\09_문자삼각형2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="cpp\02_STL기초\02_String\13_문자열처리.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="cpp\02_STL기초\04_PriorityQueue\18_우선순위큐가3개\18_우선순위큐가3개_PQ.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
